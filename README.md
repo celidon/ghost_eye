@@ -22,8 +22,7 @@ Ghost Eye can work with any Linux distros if they support Python 3.
 11.  Have I been pwned
 12.  Exit
 
-
-banner.jpg
+![Screenshot](banner.jpg)
 
   
 Video demo: Watch on Youtube:
