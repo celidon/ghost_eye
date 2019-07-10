@@ -35,7 +35,7 @@ You have to install Python 3 first:
   
 * Install Python 3 on Arch Linux and its distros: sudo pacman -S python3
 * Install Python 3 on Debian and its distros: sudo apt install python3
-* Install Python 3 on Debian and its distros: sudo yum install python3
+* Install Python 3 on Fedora and its distros: sudo yum install python3
  
  
 You have to install Nmap and EtherApe too:
