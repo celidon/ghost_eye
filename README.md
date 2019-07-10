@@ -38,12 +38,13 @@ You have to install Lynx, JQ, Nmap and EtherApe:
 
 * cd ghost_eye
 
-  
-* pip3 install -r requirements.txt
-<div>
-  
+* chmod +x ghost_eye.sh
+
+* ln -s `pwd`/ghost_eye.sh $HOME/.local/bin
+
 # Use:
-* python3 ghost_eye.py
+
+* ghost_eye.sh
 
 
 # Contact to coder
