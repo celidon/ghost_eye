@@ -20,33 +20,18 @@ Ghost Eye can work with any Linux distros if they support Python 3.
 9.   IP Location Finder
 10.  Traceroute
 11.  Have I been pwned
-12.  Exit
+12.  Options 1, 2, 4, 5, 9, and 10
+13.  Options 1, 2, 4, 5, 6, 7, 8, 9, and 10
+14.  Exit
 
-![Screenshot](banner.jpg)
-
-  
-Video demo: Watch on Youtube:
-https://youtu.be/XCtWM-4ov2U
-</div>
-
-# Install and run on Linux
-You have to install Python 3 first:
-<div>
-  
-* Install Python 3 on Arch Linux and its distros: sudo pacman -S python3
-* Install Python 3 on Debian and its distros: sudo apt install python3
+![Screenshot](banner.png)
 
  
- 
-You have to install Nmap and EtherApe too:
+You have to install Lynx, JQ, Nmap and EtherApe:
 
-  
-* On Arch Linux and its distros: sudo pacman -S nmap etherape
-
-  
-* On Debian and its distros: sudo apt install nmap etherape
-
-    
+* Fedora: sudo yum install lynx jq nmap etherape
+* Arch: sudo pacman -S lynx jq nmap etherape
+* Ubuntu: sudo apt install lynx jq nmap etherape
     
 # Install Ghost Eye:
 * git clone https://github.com/BullsEye0/ghost_eye.git
